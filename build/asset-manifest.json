@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.eaea21e9.chunk.js",
-    "main.js.map": "/static/js/main.eaea21e9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1b5e335c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1b5e335c.js.map",
-    "static/js/2.263580fb.chunk.js": "/static/js/2.263580fb.chunk.js",
-    "static/js/2.263580fb.chunk.js.map": "/static/js/2.263580fb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ed29ca6ae64acb4a247997a6c8123e3e.js": "/precache-manifest.ed29ca6ae64acb4a247997a6c8123e3e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.263580fb.chunk.js.LICENSE.txt": "/static/js/2.263580fb.chunk.js.LICENSE.txt",
-    "static/media/work-desk__dustin-lee.jpg": "/static/media/work-desk__dustin-lee.a5a74b4f.jpg"
+    "main.css": "/widdesto_crmt_ent_test/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/widdesto_crmt_ent_test/static/js/main.eaea21e9.chunk.js",
+    "main.js.map": "/widdesto_crmt_ent_test/static/js/main.eaea21e9.chunk.js.map",
+    "runtime-main.js": "/widdesto_crmt_ent_test/static/js/runtime-main.3b7128be.js",
+    "runtime-main.js.map": "/widdesto_crmt_ent_test/static/js/runtime-main.3b7128be.js.map",
+    "static/js/2.263580fb.chunk.js": "/widdesto_crmt_ent_test/static/js/2.263580fb.chunk.js",
+    "static/js/2.263580fb.chunk.js.map": "/widdesto_crmt_ent_test/static/js/2.263580fb.chunk.js.map",
+    "index.html": "/widdesto_crmt_ent_test/index.html",
+    "precache-manifest.2905c93a44fdc324a2d489c383c0a902.js": "/widdesto_crmt_ent_test/precache-manifest.2905c93a44fdc324a2d489c383c0a902.js",
+    "service-worker.js": "/widdesto_crmt_ent_test/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/widdesto_crmt_ent_test/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.263580fb.chunk.js.LICENSE.txt": "/widdesto_crmt_ent_test/static/js/2.263580fb.chunk.js.LICENSE.txt",
+    "static/media/work-desk__dustin-lee.jpg": "/widdesto_crmt_ent_test/static/media/work-desk__dustin-lee.a5a74b4f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b5e335c.js",
+    "static/js/runtime-main.3b7128be.js",
     "static/js/2.263580fb.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
     "static/js/main.eaea21e9.chunk.js"
