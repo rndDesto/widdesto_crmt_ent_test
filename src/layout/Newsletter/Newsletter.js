@@ -34,7 +34,7 @@ const Newsletter = ({ classes }) => {
     const handleChange = () => {
         setChecked(false);
         setIsClose(true);
-        let expired = new Date(new Date().getTime() + 1 * 60 * 1000);
+        let expired = new Date(new Date().getTime() + 10 * 60 * 1000);
         Cookies.set('newsletter', 'iscloses', {
             expires: expired
         });
