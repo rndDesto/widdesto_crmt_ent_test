@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/widdesto_crmt_ent_test/precache-manifest.2905c93a44fdc324a2d489c383c0a902.js"
+  "/widdesto_crmt_ent_test/precache-manifest.122a28ab368ddc476dd09b3213e569a5.js"
 );
 
 self.addEventListener('message', (event) => {
